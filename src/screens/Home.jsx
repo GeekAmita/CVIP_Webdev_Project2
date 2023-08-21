@@ -13,7 +13,7 @@ function Home() {
       </div>
       <div className="w-8/12">
         <img
-          src="src/assets/3d-website-developer-working-on-laptop-illustration-png.webp"
+          src="./assets/3d-website-developer-working-on-laptop-illustration-png.webp"
           alt="A Boy working on laptop"
         />
       </div>

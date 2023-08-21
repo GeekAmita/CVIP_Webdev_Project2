@@ -1,10 +1,10 @@
 export const ProjectList = [
   {
-    imgURL: "src/assets/Portfolio.png",
+    imgURL: "./assets/Portfolio.png",
     title: "PORTFOLIO WEBSITE",
   },
   {
-    imgURL: "src/assets/Edtech.png",
+    imgURL: "./assets/Edtech.png",
     title: "EDTECH LANDING PAGE",
   },
 ];

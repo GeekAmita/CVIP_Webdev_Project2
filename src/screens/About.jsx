@@ -3,7 +3,7 @@ function About() {
     <div id="about" className="flex justify-between p-32">
       <div className="">
         <img
-          src="src/assets/About.png"
+          src="./assets/About.png"
           alt="A girl working on laptop with a cat"
         />
       </div>
