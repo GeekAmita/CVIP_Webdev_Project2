@@ -21,10 +21,7 @@ function Header() {
       </ul>
       <div className="flex w-1/5 justify-end">
         <button className="border-gray-400 border-2 py-3 px-8 text-xl text-white font-medium">
-          <a
-            href="src/assets/Amita_Singh_Resume_final.docx.pdf"
-            target="_blank"
-          >
+          <a href="./assets/Amita_Singh_Resume.pdf" target="_blank">
             Resume
           </a>
         </button>
